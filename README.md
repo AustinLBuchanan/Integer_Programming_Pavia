@@ -5,7 +5,7 @@ Materials for an Integer Programming course at the University of Pavia.
 Theory, algorithms, and applications of discrete optimization. Binary, pure, and mixed-integer linear optimization formulations, relaxations; preprocessing, branch and bound, formulation strength, polynomial equivalence of separation and optimization; theory of polyhedra, convex hulls and facets, valid inequalities for pure and mixed-integer problems, lifting, perfect formulations, extended formulations. 
 
 ## Textbooks
-- Conforti, Cornu{\'e}jols, and Zambelli, _Integer Programming_, Springer, 2014. (A modern take on IP) [(PDF)](http://link.springer.com/book/10.1007%2F978-3-319-11008-0)
+- Conforti, Cornuéjols, and Zambelli, _Integer Programming_, Springer, 2014. (A modern take on IP) [(PDF)](http://link.springer.com/book/10.1007%2F978-3-319-11008-0)
 - Wolsey, _Integer Programming_, Wiley, 1998. (Accessible)
 - Nemhauser and Wolsey, _Integer and Combinatorial Optimization_, Wiley, 1999. (Comprehensive) [(Jeff Linderoth's slides)](https://jlinderoth.github.io/classes/ie418/index.html)
 - Schrijver, _Theory of Linear and Integer Programming_, Wiley, 1998. (Highly mathematical)
