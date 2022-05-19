@@ -33,4 +33,10 @@ Theory, algorithms, and applications of discrete optimization. Binary, pure, and
 ## Slides
 - Bob Bixby, [Optimization and Analytics](https://www.lnmb.nl/conferences/2015/programlnmbconference/LNMB-NGB_Bixby.pdf).
 - Santanu Dey, [Cutting Planes in Mixed Integer Programming](https://www2.isye.gatech.edu/~sdey30/IntroCuttingPlanes.pdf).
-- Jeff Linderoth, [Computational Integer Programming](http://egon.cheme.cmu.edu/ewo/docs/LinderothJan07.pdf)
+- Jeff Linderoth, [Computational Integer Programming](http://egon.cheme.cmu.edu/ewo/docs/LinderothJan07.pdf).
+
+## Example codes from other courses
+- TSP and VRP [(codes)](https://github.com/AustinLBuchanan/TSP_VRP) [(videos)](https://www.youtube.com/playlist?list=PLKQ1MjSFuxKced-SxpwUSOCrXadMD-7yw).
+- Facility Location [(codes)](https://github.com/AustinLBuchanan/Location_Models) [(videos)](https://www.youtube.com/playlist?list=PLKQ1MjSFuxKe_VlKguBAGWtZCMrpgaQpL).
+- Politial Districting [(codes)](https://github.com/AustinLBuchanan/Districting-Examples-2020) [(GerryChain install video)](https://www.youtube.com/watch?v=_SmR2IkIt38).
+- Combinatorial Optimization [(codes)](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi).
