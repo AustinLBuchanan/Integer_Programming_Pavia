@@ -38,5 +38,5 @@ Theory, algorithms, and applications of discrete optimization. Binary, pure, and
 ## Example codes from other courses
 - TSP and VRP [(codes)](https://github.com/AustinLBuchanan/TSP_VRP) [(videos)](https://www.youtube.com/playlist?list=PLKQ1MjSFuxKced-SxpwUSOCrXadMD-7yw).
 - Facility Location [(codes)](https://github.com/AustinLBuchanan/Location_Models) [(videos)](https://www.youtube.com/playlist?list=PLKQ1MjSFuxKe_VlKguBAGWtZCMrpgaQpL).
-- Politial Districting [(codes)](https://github.com/AustinLBuchanan/Districting-Examples-2020) [(GerryChain install video)](https://www.youtube.com/watch?v=_SmR2IkIt38).
+- Politial Districting [(codes)](https://github.com/AustinLBuchanan/Districting-Examples-2020).
 - Combinatorial Optimization [(codes)](https://github.com/AustinLBuchanan/Combinatorial-Optimization-in-Gurobi).
